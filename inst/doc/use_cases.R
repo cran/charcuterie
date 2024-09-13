@@ -59,5 +59,5 @@ spongebob <- function(phrase) {
 spongebob("you can't do anything useful with this package")
 
 ## ----echo=FALSE---------------------------------------------------------------
-knitr::include_graphics("../man/figures/spongebob.jpg")
+knitr::include_graphics("spongebob.jpg")
 
