@@ -1,15 +1,16 @@
-8cbf4c610869030686be51782c86592d *DESCRIPTION
+7c6fc0f83c405f74c01a728df567251b *DESCRIPTION
 6f4db6e8af4e777e70b3f4cfb127bc3f *LICENSE
-a1b711452656df5fd67ccc8efb7bc0a4 *NAMESPACE
-192c25fe6565a92f669403cc0e125f59 *NEWS.md
+e5bb3ebc6b668502446475fe99b558bd *NAMESPACE
+841281304e42eaa57eacd475a6ffb3ea *NEWS.md
 df6cc46bc7fae1a55b713f3d5065b35a *R/charcuterie-package.R
 fbc2530cd96c03f686fa19681d1e8691 *R/chars.R
 f2938d14c30f9485451b67cc500b0a6d *R/classes.R
+3af3a042509f22bdc816b34fa9f0fba8 *R/count.R
 4785b8aba5396c98f8102d8a21dd269b *R/except.R
 4eed2596e353907063e0f7e0b5afeeef *R/methods.R
 ffd58c610d4cc0e95998849b0c2cd016 *R/utils.R
-b9b54efc38e92960daa8ee494d5fbb71 *README.md
-12ccf19c28c04de2bae6fa546598bb55 *build/vignette.rds
+f211502b921a249825005350a7ab0563 *README.md
+2eb62ceff53e6cce400b67feec372e9a *build/vignette.rds
 67a31c4e8dda90ffa46dbaceae6219e2 *inst/doc/usage.R
 8d89db43ce0380ada96ffcb72ef886d6 *inst/doc/usage.Rmd
 dd96697307a765d6cd713a817ad0091e *inst/doc/usage.html
@@ -21,6 +22,7 @@ e08609d8709da3f73bcfc3d6bfe2ff58 *man/charcuterie-package.Rd
 a07f97f8d24c87f4fc076b883cee8bfa *man/chars.Rd
 662059d7af21b1129247d05070ccb36c *man/chars.character.Rd
 998e599ed259f6189cb56e77863c1848 *man/chars.default.Rd
+447dec5e1305142e05230acfd6b6fc9d *man/count.Rd
 31d8bd700fbbc379b5d0f43e744bbc34 *man/except.Rd
 23d8f45ca276cb5150b62e5a0e2d2989 *man/figures/logo.png
 95e1a5998cfb2c2c7b6b1128975c6ad0 *man/figures/spongebob.jpg
@@ -44,6 +46,7 @@ ec26c99b0d33a787e412ee411ed5d3d7 *man/unique.chars.Rd
 50f09dcf83db72e46abf6a8fa60831ac *tests/testthat.R
 4ea8217a08ed280f33f12290964fd38c *tests/testthat/test-chars.R
 c902dc0617cb9f3dd2da7eeca35c7631 *tests/testthat/test-classes.R
+d22c15850da68d28df628b73a339599c *tests/testthat/test-count.R
 95e1a5998cfb2c2c7b6b1128975c6ad0 *vignettes/spongebob.jpg
 8d89db43ce0380ada96ffcb72ef886d6 *vignettes/usage.Rmd
 f94f318b67b0074a1f1dd5b24d17ad08 *vignettes/use_cases.Rmd
